@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+# 기업협업
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 기업협업 - SUPER MOVE👏🏻
 
-## Available Scripts
+## 프로젝트명
 
-In the project directory, you can run:
+웹 지도 기능 구현 ( 추후 깃헙 주소 추가)
 
-### `npm start`
+## SUPER MOVE 프로젝트 소개
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 지도기반 모빌리티 **데이터 시각화**
+  - 통합 길찾기 경로 검색 기능
+  - 대중교통 데이터 시각화(버스, 정류장, 지하철)
+- 지도기반 서비스와 **API 및 실시간 처리 기술**이해
+- 슈퍼무브 **자체개발 데이터 서비스 API**를 이용하여 개발
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 개발 인원 및 기간
 
-### `npm test`
+### 개발기간 : 2022.10.17 - 2022.11. 10(4주)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 개발 인원 : 프론트엔드 3명
 
-### `npm run build`
+### Project
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- 지도기반 모빌리티 **데이터 시각화**
+  - 통합 길찾기 경로 검색 기능
+  - 대중교통 데이터 시각화(버스, 정류장, 지하철)
+- 지도기반 서비스와 **API 및 실시간 처리 기술**이해
+- 슈퍼무브 **자체개발 데이터 서비스 API**를 이용하여 개발
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 구현 기능
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+### 메인 & 지도 및 지하철
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Screen Shot 2022-11-10 at 6.06.53 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fbd3348f-1b82-4caa-95a0-176e5a012605/Screen_Shot_2022-11-10_at_6.06.53_PM.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 길찾기
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Screen Shot 2022-11-10 at 6.07.16 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/47772bf2-5699-4a28-9c6f-cd6e925301b2/Screen_Shot_2022-11-10_at_6.07.16_PM.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 버스
 
-## Learn More
+![Screen Shot 2022-11-10 at 6.07.27 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8e29d48a-0142-46e2-bf78-397557dda06d/Screen_Shot_2022-11-10_at_6.07.27_PM.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### 남장현
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- 메인 메뉴
+- 메인 지도
+- 지하철 노선도
+- 경로 검색 결과
+  - 경로 검색 결과 리스트 출력
 
-### Code Splitting
+### 조재현
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- 출도착지 지정
+  - 지도위 출도착 마커
+  - 명칭 검색창 출도착지 지정
+- 경로 검색 결과
+  - 경로검색 결과 리스트 출력
+  - 이동 경로(지도)
 
-### Analyzing the Bundle Size
+### 안나라
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- 노선 정보
+  - 운행 지역, 시간, 배차간격
+  - 노선 이동 경로(지도)
+- 정류소정보
 
-### Making a Progressive Web App
+  - 경로 노선 정보
+  - 노선 실시간 도착 정보
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+  ## **적용 기술 및 구현 기능**
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Skill
 
-### Deployment
+: Javascript(React.js), styled component, Naver map api, Git(bitbucket),RESTful API,
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### 협업툴
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+: Notion, Slack, Git(bitbucket), Source tree, Figma
