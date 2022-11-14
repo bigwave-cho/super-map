@@ -32,17 +32,6 @@
 
 ---
 
-### 메인 & 지도 및 지하철
-
-![Screen Shot 2022-11-10 at 6.06.53 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fbd3348f-1b82-4caa-95a0-176e5a012605/Screen_Shot_2022-11-10_at_6.06.53_PM.png)
-
-### 길찾기
-
-![Screen Shot 2022-11-10 at 6.07.16 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/47772bf2-5699-4a28-9c6f-cd6e925301b2/Screen_Shot_2022-11-10_at_6.07.16_PM.png)
-
-### 버스
-
-![Screen Shot 2022-11-10 at 6.07.27 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8e29d48a-0142-46e2-bf78-397557dda06d/Screen_Shot_2022-11-10_at_6.07.27_PM.png)
 
 ### 남장현
 
