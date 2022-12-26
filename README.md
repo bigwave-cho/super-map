@@ -1,36 +1,44 @@
+
 # 기업협업 - Super Move
 
-### Skill
+## 📚 목차
 
-: Javascript(React.js), styled component, Naver map api, Git(bitbucket),RESTful API,
+- [개요](#개요)
+- [과제 내용](#과제-내용)
+- [팀 정보](#팀-정보)
+- [담당 페이지 및 구현 기능](#담당-페이지-및-구현-기능)
+- [실행 방법](#실행-방법)
+- [디렉토리 구조](#디렉토리-구조)
 
-### 협업툴
+
+## 개요
+
+### 🗓 수행 기간
+
+> 2022.10.17 - 2022.11.10(4주)
+
+### 🌼 Skill
+
+: Javascript(React.js), styled component</br> Naver map api, Git(bitbucket), RESTful API
+
+### 🌼 협업툴
 
 : Notion, Slack, Git(bitbucket), Source tree, Figma
 
-### 과제 목적
-
+## ❗️과제 내용
 - 지도 기반 모빌리티 데이터 시각화
   - 통합 길찾기 경로 검색 기능
   - 대중교통 데이터 시각화(버스, 정류장, 지하철 정보)
 - Naver Map API를 이용한 기능 구현
 - 실제 서비스 중인 서버 API를 이용
 
-### 🗓 수행 기간
 
-> 2022.10.17 - 2022.11.10(4주)
 
-### 시연 영상
-- <a href="https://www.youtube.com/watch?v=PdC57-63zfI">시연 영상 보러가기</a>
+
 
 <br />
 
-## 📚 목차
 
-- [팀 정보](#팀-정보)
-- [담당 페이지 및 구현 기능](#담당-페이지-및-구현-기능)
-- [실행 방법](#실행-방법)
-- [디렉토리 구조](#디렉토리-구조)
 
 <br />
 
